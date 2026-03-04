@@ -1,15 +1,16 @@
 ### About me
 
 
-Soy un estudiante dedicado y apasionado por la Data science,
-ciberseguridad y programacion. Busco una oportunidad de práctica
-profecional para aplicar y expandir mis conocimientos.
-Destaco por mi capacidad para resolver problemas complejos
-y mi entusiasmo por aprender y adaptarme rápidamente a
-nuevos desafíos. Mi objetivo es contribuir a la toma de
-decisiones basada en datos, optimizando las estrategias de
-seguridad y generando un impacto positivo y duradero en el
-éxito organizacional.
+Ingeniero en Informática titulado, con experiencia en soporte TI, operaciones empresariales y análisis 
+de información organizacional.  
+Profesional orientado a la mejora continua, con capacidad para integrar tecnología y procesos de 
+negocio, participando en implementación de soluciones informáticas, soporte técnico, gestión de 
+datos y automatización de procesos.  
+Interés profesional en:  
+ Análisis de Datos  
+ Desarrollo   
+ Ciberseguridad  
+ Automatización y optimización de procesos 
 
 ## Encuéntrame en:
 
